@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type note here...</string>
+    <string name="note_error_to_insert">There was an error when inserting note</string>
+    <string name="note_error_to_delete">There was an error when deleting note</string>
+    <string name="note_error_to_update">There was an error when updating note</string>
+    <string name="note_inserted_successfully">Note was successfully inserted</string>
+    <string name="updated_successfully">Note was successfully updated</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="note_deleted_successfully">Note was successfully deleted</string>
+
+    <string name="action_delete">Delete</string>
+    <plurals name="list_note_selected">
+        <item quantity="one">1 selected</item>
+        <item quantity="other">%d selected</item>
+    </plurals>
+    <string name="message_notes_deleted">%d items deleted.</string>
+</resources>
